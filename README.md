@@ -6,7 +6,7 @@
 
 * [GitHub Repository](https://github.com/jamierachael/angular-todo-list)
 * [Deployed GitHub IO](https://jamierachael.github.io/angular-todo-list/)
-* [Original YouTube Video](https://youtu.be/qZXt1Aom3Cs)
+* [Original YouTube Video](https://youtu.be/Fdf5aTYRW0E)
 
 ### Notes for improvement
 * App is not properly deployed
